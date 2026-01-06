@@ -1,5 +1,5 @@
 ## Arpita Shree
 
-- 🔭 I’m currently working at a startup
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me: Linkedin @arpita-shree
+- Working at a Startup as an Intern
+- I’m currently learning Web Development & Data Analytics
+- How to reach me: Linkedin @arpita-shree
