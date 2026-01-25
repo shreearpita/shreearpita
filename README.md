@@ -1,6 +1,7 @@
 ## Arpita Shree
 
-Tech enthusiast | Aspiring Quant Engineer | Always building
+Tech enthusiast | Aspiring Quant Engineer 
+
 
 I’m a curious learner who loves turning ideas into real projects. Currently exploring **Web Development, Data Analytics, and Problem Solving (DSA)** while gaining hands-on experience working at a startup.
 
