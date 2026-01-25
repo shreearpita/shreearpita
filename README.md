@@ -4,7 +4,6 @@ Tech enthusiast | Aspiring Quant Engineer | Always building
 
 I’m a curious learner who loves turning ideas into real projects. Currently exploring **Web Development, Data Analytics, and Problem Solving (DSA)** while gaining hands-on experience working at a startup.
 
----
 
 ## What I'm Currently Focused On
 
@@ -13,7 +12,6 @@ I’m a curious learner who loves turning ideas into real projects. Currently ex
 * Practicing **Data Structures & Algorithms in C++**
 * Preparing for **internships, open source programs, and competitive coding**
 
----
 
 ## Tech Stack
 
@@ -26,7 +24,6 @@ I’m a curious learner who loves turning ideas into real projects. Currently ex
 **Tools & Platforms:**
 `Git` `GitHub` `VS Code` `Docker`
 
----
 
 ## 🚀 Projects I'm Proud Of
 
@@ -41,14 +38,12 @@ Built a basic blockchain system from scratch to understand how decentralized sys
 
 *(More structured and advanced projects coming soon 👀)*
 
----
 
 ## 📈 What You'll See on My GitHub
 
 * Experiments while learning new technologies
 * Consistent growth as I level up my skills
 
----
 
 ## 🤝 Let's Connect
 
