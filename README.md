@@ -1,18 +1,6 @@
-## Arpita Shree
+## Hi, I am Arpita Shree
 
-Tech enthusiast | Aspiring Quant Engineer 
-
-
-I’m a curious learner who loves turning ideas into real projects. Currently exploring **Web Development, Data Analytics, and Problem Solving (DSA)** while gaining hands-on experience working at a startup.
-
-
-## What I'm Currently Focused On
-
-* Improving my **full-stack web development** skills
-* Learning **data analytics & real-world data tools**
-* Practicing **Data Structures & Algorithms in C++**
-* Preparing for **internships, open source programs, and competitive coding**
-
+I work on building structured applications, working with data and implementating practical, logic-driven features across projects. I primarily work with Python and have experience with SQL and front-end development using HTML, CSS, and JavaScript. I am also involved in Machine Learning work, contributing to data preparation and feature engineering as part of a team.
 
 ## Tech Stack
 
@@ -26,30 +14,10 @@ I’m a curious learner who loves turning ideas into real projects. Currently ex
 `Git` `GitHub` `VS Code` `Docker`
 
 
-## 🚀 Projects I'm Proud Of
+## Let's Connect
 
-🔹 **Smart Parking System**
-A web-based solution aimed at reducing traffic issues by helping users find nearby parking spaces efficiently.
-
-🔹 **AI Chatbot (Convo)**
-A chatbot built using HTML, CSS, and JavaScript.
-
-🔹 **Blockchain in Python**
-Built a basic blockchain system from scratch to understand how decentralized systems work.
-
-*(More structured and advanced projects coming soon 👀)*
-
-
-## 📈 What You'll See on My GitHub
-
-* Experiments while learning new technologies
-* Consistent growth as I level up my skills
-
-
-## 🤝 Let's Connect
-
-💼 LinkedIn: [arpita-shree](https://www.linkedin.com/in/arpita-shree-69b41b376)
-📧 Email: [shreearpita24@gmail.com](mailto:shreearpita24@gmail.com)
+LinkedIn: [arpita-shree](https://www.linkedin.com/in/arpita-shree-69b41b376)
+Email: [shreearpita24@gmail.com](mailto:shreearpita24@gmail.com)
 
 I’m always open to learning, collaborating, and building cool things 🚀
 
