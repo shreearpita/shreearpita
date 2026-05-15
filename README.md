@@ -1,18 +1,18 @@
+# Hi, I'm Arpita Shree
+
 <div align="center">
 
-# Arpita Shree
-
-### **AI Systems Engineer**
+# **AI Systems Engineer**
 
 *Project-based learner · Systems thinker*
 
-`Research → Structure → Results`
+#### *`Research → Structure → Results`*
 
 </div>
 
 ---
 
-I don't just use AI tools — I research how they work, build systems around them, and engineer workflows that produce intentional, repeatable results.
+I don't just use AI tools - I research how they work, build systems around them, and engineer workflows that produce intentional, repeatable results.
 
 Every project I take on is a structured experiment. I learn by building, not by watching.
 
@@ -26,7 +26,7 @@ Every project I take on is a structured experiment. I learn by building, not by 
 | **AI Agents** | Multi-agent automation pipelines built for startups | Claude API · LangChain |
 | **Voice AI System** | Voice cloning & voice design workflows | ElevenLabs API |
 | **UGC Video Pipeline** | Automated video & image generation system | HeyGen · Higgsfield |
-| **ML Research** | End-to-end ML research — experimental design, data pipeline architecture, feature engineering, and model evaluation across real-world datasets | Python · Scikit-learn |
+| **ML Research** | Experimental design, Data Pipeline Architecture & Model Evaluation | Python · Scikit-learn |
 
 ---
 
