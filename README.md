@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# **AI Systems Engineer**
+# **AI Engineer | Aspiring Quant Researcher**
 
 *Project-based learner · Systems thinker*
 
